@@ -27,7 +27,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "adm-zip": "^0.4.7",
+    "adm-zip": "^0.5.2",
     "chalk": "^1.1.1",
     "lodash": "^3.10.1",
     "optimist": "^0.6.1",
